@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently focused on **Cloud Computing**
 
-- 🌱 I’m currently learning **JavaScript libraries**
+- 🌱 I’m currently learning **Designing and Implementing Microsoft Azure Networking Solutions**
 
 - 💬 Ask me about **HTML/CSS/Js, Pyhton, Java, C++, Wordpress, Azure, Salesforce**
 
