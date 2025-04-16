@@ -11,21 +11,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedrouhanali&label=Profile%20views&color=0e75b6&style=flat" alt="syedrouhanali" /> </p>
 
-- 🔭 I’m currently focused on **Cloud Computing**
+- 🔭 I’m currently focused on **Cyber Security & Cloud Computing**
 
-- 🌱 I’m currently learning **Designing and Implementing Microsoft Azure Networking Solutions**
+- 🌱 I’m currently learning **SOC Analyst from HTB **
 
-- 💬 Ask me about **HTML/CSS/Js, Pyhton, Java, C++, Wordpress, Azure, Salesforce**
+- 💬 Ask me about **Ethical Hacking, Microsoft Azure (AZ-900, AZ-104) & Salesforce Administration & Associate Certification**
 
 - 📫 How to reach me **syedrouhanali7@gmail.com**
 
-- 📄 Know about my experiences [https://rouhan.vercel.app/index.html](https://rouhan.vercel.app/index.html)
-
-- ⚡ Talk about facts **I love to code**
+- ⚡ Talk about facts **I love to learn fast, fail smart, and grow stronger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/coresyedrouhanali786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-rouhan-ali-037b96262/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/coresyedrouhanali786" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
