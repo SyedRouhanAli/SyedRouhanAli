@@ -23,7 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/coresyedrouhanali786" height="30" width="40" /><img src"[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Flinkedin-logo-black&psig=AOvVaw3p9E6YS3JmM5adihGnUgux&ust=1744913874253000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCv6u6U3YwDFQAAAAAdAAAAABAI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Flinkedin-logo-png-transparent&psig=AOvVaw3TlwlEuIJTsRZBTtWM46b_&ust=1744914012695000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCwi7KV3YwDFQAAAAAdAAAAABAE)"></a>
+<a href="https://www.linkedin.com/in/coresyedrouhanali786" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
