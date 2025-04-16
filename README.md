@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently focused on **Cyber Security & Cloud Computing**
 
-- 🌱 I’m currently learning **SOC Analyst from HTB **
+- 🌱 I’m currently learning **SOC Analyst from HTB**
 
 - 💬 Ask me about **Ethical Hacking, Microsoft Azure (AZ-900, AZ-104) & Salesforce Administration & Associate Certification**
 
